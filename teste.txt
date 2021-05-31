@@ -1,3 +1,4 @@
 Meu primeiro contato com o git
 na escola de tecnologia vida nova e quero aprender muito.
 
+simulando uma alteração  feita  pelo meu  amigo
