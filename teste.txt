@@ -1,8 +1,5 @@
-MEU PRIMEIRO CONTATO COM GIT
-na escola de tecnologia vida nova e quero aprender muito.
+﻿Meu primeiro contato com GIT
+na escola de tecnologia vida nova
+e quero aprender muito.
 
-<<<<<<< HEAD
 
-=======
-simulando uma alteração  feita  pelo meu  amigo
->>>>>>> main
